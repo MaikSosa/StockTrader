@@ -2,9 +2,9 @@
 
 This is the first attempt to create a trading bot. The program has three main obejctives or purposes: 
  
-    1. **Connect to the desire brocker** (Webull in this case) from the terminal.
-    2. **Generate a graphic analysis** of specific candlesticks timeframe and calculate the Support and Resistance lines.
-    3. Store the Support and Resistance lines to **place a BUY or SELL order from this program** into the account with the broker. 
+    1. Connect to the desire brocker (Webull in this case) from the terminal.
+    2. Generate a graphic analysis of specific candlesticks timeframe and calculate the Support and Resistance lines.
+    3. Store the Support and Resistance lines to place a BUY or SELL order from this program into the account with the broker. 
 
 Unfortunately, by the time of the publish of this repository there is not and official API from Webull. 
 
