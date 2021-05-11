@@ -8,7 +8,7 @@ This is the first attempt to create a trading bot. The program has three main ob
 
 Unfortunately, by the time of the publish of this repository there is not and official API from Webull. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/uakq9r7Otx4)
 
 # Development Environment
 
